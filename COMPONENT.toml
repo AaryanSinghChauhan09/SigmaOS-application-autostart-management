@@ -3,7 +3,7 @@ name = "SigmaOS-application-autostart-management"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "application-autostart-management component"
+description = "Application Autostart Management"
 upstream = []
 
 [contract]
